@@ -8,7 +8,7 @@ NAME_ALREADY_EXISTS = 'Проект с таким именем уже сущес
 PROJECT_NOT_FOUND = 'Объект не найден'
 PROJECT_CLOSED = 'Закрытый проект нельзя редактировать!'
 FULL_AMOUNT_TOO_LOW = (
-    'Нелья установить значение full_amount '
+    'Нельзя установить значение full_amount '
     'меньше уже вложенной суммы.'
 )
 PROJECT_HAS_INVESTMENTS = (
